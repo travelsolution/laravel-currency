@@ -7,12 +7,10 @@
         "currency converter",
         "exchange rates"
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url":  "https://github.com/travelsolution/currency"
-        }
-    ],
+    "dist": {
+        "url": "https://github.com/travelsolution/currency/archive/refs/tags/1.1.zip",
+        "type": "zip"
+    }
     "type": "library",
     "license": "MIT",
     "authors": [
